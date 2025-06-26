@@ -26,7 +26,7 @@ jobs:
 - type: import
   parameters:
     type: har
-    fileName: "/root/localhost_Archive [25-06-26 13-11-37].har"
+    fileName: "/zap/wrk/tmp/localhost_Archive [25-06-26 13-11-37].har"
 - type: passiveScan-wait
   parameters: {}
 - type: activeScan
